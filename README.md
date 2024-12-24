@@ -66,11 +66,6 @@
   npm test
 
 
-  ## License
-  This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
-
-  Copyright © 2020 [BING Z](https://imbingz.github.io/Responsive-Website-Portfolio/)
-
   <hr>
   <p align='center'><i>
   This README was built with ❤️ by Ango
