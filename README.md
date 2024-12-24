@@ -65,10 +65,6 @@
   ## Tests
   npm test
 
-  ## Author Contact
-  Contact the author with any questions!<br>
-  Github link: [imbingz](https://github.com/imbingz)<br>
-  Email: contact.bingz@gmail.com
 
   ## License
   This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
@@ -77,5 +73,6 @@
 
   <hr>
   <p align='center'><i>
-  This README was built with ❤️ by <a href="https://imbingz.github.io/Responsive-Website-Portfolio/"> BING Z</a>
+  This README was built with ❤️ by Ango
+   
 </i></p>
